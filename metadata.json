@@ -1,0 +1,7 @@
+{
+  "name": "Neura",
+  "description": "A professional-grade AI chat agent powered by Google Gemini, featuring multi-model support, image analysis, and real-time streaming responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
